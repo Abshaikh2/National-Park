@@ -1,0 +1,27 @@
+Web portal for National parks is a website which provides the people who are interested in visiting national parks and interested in  wild animals can view this website to where they can get to know where the national park is situated and what all animals residing in that national park. 
+
+The existing system uses manual operations for Maintaining information of the national park and animals residing of that particular  park in paper and files which may be damaged due to externals causes like fire, water etc as a result it may lead to loss of information gathered permanently. And each national park may require a new record to store the information about that park which may also lead to so many records where finding it in set of national park records may be too difficult.
+
+Existing system which was performed using manual operations overcomes by the proposed system called National Parks where viewing national parks and wild life in that particular park from anywhere in the world. 
+
+You are supposed to create a website for them with the below mentioned requirement specifications.
+
+The website is to be developed for the Windows Platform using HTML5, JavaScript and Geolocation. The site should work well in all leading browsers including Chrome, IE, Firefox etc. 
+
+
+
+
+Requirement Specification:
+
+The Web site is to be created based on the following requirements.
+
+The Home Page should be created making use of Sections with a suitable logo, the header section can be added which will show images of animals.
+The site must contain the links to navigate through any category for the information.
+The site should display a menu which will contain the options for brief introduction about the various national parks available, location and any other information if required.
+The web site should also provide the option of Animal Info in that particular national park page where viewers can get the information of well known animals and birds residing in that particular national park. 
+
+
+
+Also have a Site Map option where viewers can see what all National Parks are there in our web site and can easily know where it is situated in the country. Their location should be displayed using GeoLocation API (eg. GoogleMaps)	
+
+A brief summary of a particular national park including list of animals/birds available, other facilities at national park should be displayed on the Web Page along with the picture but detailed Features should be stored in Individual Word documents which can be downloaded or viewed by the User who wishes to see the same.
